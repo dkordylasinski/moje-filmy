@@ -79,3 +79,30 @@ C:\Users\damik\OneDrive\Desktop\Nowy folder\moje-filmy\moviesBack\obj\Debug\net6
 C:\Users\damik\OneDrive\Desktop\Nowy folder\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.pdb
 C:\Users\damik\OneDrive\Desktop\Nowy folder\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.genruntimeconfig.cache
 C:\Users\damik\OneDrive\Desktop\Nowy folder\moje-filmy\moviesBack\obj\Debug\net6.0\ref\moviesBack.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\appsettings.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\moviesBack.exe
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\moviesBack.deps.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\moviesBack.runtimeconfig.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\moviesBack.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\moviesBack.pdb
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.csproj.AssemblyReference.cache
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.AssemblyInfoInputs.cache
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.AssemblyInfo.cs
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.csproj.CoreCompileInputs.cache
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\scopedcss\bundle\moviesBack.styles.css
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.csproj.CopyComplete
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\refint\moviesBack.dll
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.pdb
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\moviesBack.genruntimeconfig.cache
+C:\Users\damik\OneDrive\Desktop\Test\moje-filmy\moviesBack\obj\Debug\net6.0\ref\moviesBack.dll

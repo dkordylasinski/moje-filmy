@@ -68,9 +68,7 @@
 		@movie-edited="fetchMovies"
 		@edit-error="showErrorF"
 	></edit-movie>
-	<teleport to="body">
-		<error-dialog ref="errorDialogRef"></error-dialog>
-	</teleport>
+	<error-dialog ref="errorDialogRef"></error-dialog>
 </template>
 
 <script setup>
@@ -89,7 +87,7 @@
 
 	const fetchMovies = async () => {
 		await axios
-			.get('https://localhost:7009/movies')
+			.get(`https://localhost:7009/movies`)
 			.then(response => {
 				movies.value = response.data;
 			})
@@ -101,7 +99,7 @@
 
 	const deleteMovie = async () => {
 		await axios
-			.delete(`https://localhost:7009/movies/${deletedID.value}`)
+			.delete(`https://localhost:7009/moviess/${deletedID.value}`)
 			.then(() => {
 				deletedID.value = null;
 				fetchMovies();
@@ -135,8 +133,8 @@
 		);
 	};
 
-	const showError = err => {
-		errorDialogRef.value.showErrorDialog([err.code, err.message]);
+	const showError = error => {
+		errorDialogRef.value.showErrorDialog(error);
 	};
 
 	onMounted(() => {

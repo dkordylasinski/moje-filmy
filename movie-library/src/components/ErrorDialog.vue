@@ -51,8 +51,13 @@
 	let modalInstance;
 	const showErrorDialog = errorInfo => {
 		if (errorInfo) {
-			errorTexts.value.title = errorInfo[0];
-			errorTexts.value.description = errorInfo[1];
+			errorInfo.code
+				? (errorTexts.value.title = errorInfo.code)
+				: (errorTexts.value.title = 'Wystąpił błąd');
+			errorInfo.message
+				? (errorTexts.value.description = errorInfo.message)
+				: (errorTexts.value.description =
+						'Wystąpił niespodziewany błąd z aplikacją.');
 
 			const modalElement = document.getElementById('errorModal');
 			if (modalElement) {

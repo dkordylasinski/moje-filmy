@@ -206,7 +206,7 @@
 	]);
 	const addMovie = async () => {
 		await axios
-			.post('https://localhost:7009/movies', state.value)
+			.post(`https://localhost:7009/movies`, state.value)
 			.then(() => {
 				emit('movie-added');
 			})

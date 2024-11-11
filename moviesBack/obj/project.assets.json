@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damik\\OneDrive\\Desktop\\moje-filmy\\moviesBack\\moviesBack.csproj",
+      "projectUniqueName": "C:\\Users\\damik\\OneDrive\\Desktop\\Nowy folder\\moje-filmy\\moviesBack\\moviesBack.csproj",
       "projectName": "moviesBack",
-      "projectPath": "C:\\Users\\damik\\OneDrive\\Desktop\\moje-filmy\\moviesBack\\moviesBack.csproj",
+      "projectPath": "C:\\Users\\damik\\OneDrive\\Desktop\\Nowy folder\\moje-filmy\\moviesBack\\moviesBack.csproj",
       "packagesPath": "C:\\Users\\damik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damik\\OneDrive\\Desktop\\moje-filmy\\moviesBack\\obj\\",
+      "outputPath": "C:\\Users\\damik\\OneDrive\\Desktop\\Nowy folder\\moje-filmy\\moviesBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damik\\AppData\\Roaming\\NuGet\\NuGet.Config",

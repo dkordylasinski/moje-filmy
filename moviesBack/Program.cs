@@ -6,10 +6,10 @@ builder.Services.AddControllers();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowPort8080",
+    options.AddPolicy("AllowPort8081",
         policy =>
         {
-            policy.WithOrigins("http://localhost:8080") 
+            policy.WithOrigins("http://localhost:8081") 
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
@@ -30,7 +30,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.UseCors("AllowPort8080");
+app.UseCors("AllowPort8081");
 
 app.MapControllers();
 

@@ -22,7 +22,7 @@
 	const saveNewMovies = async movies => {
 		console.log(movies);
 		await axios
-			.post('https://localhost:7009/movies/bulk', movies)
+			.post(`https://localhost:7009/movies/bulk`, movies)
 			.then(() => {
 				emit('fetch-movies-from-api');
 			})
